@@ -2,7 +2,7 @@ import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
 
-public class PacManEater extends Applet implements KeyListener, Runnable {
+public class Main extends Applet implements KeyListener, Runnable {
    int xVal = 135;
    int yVal = 135;
    int degrees = 45;
