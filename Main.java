@@ -1,3 +1,5 @@
+//Note: This assumes your window is 500 by 500
+
 import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
