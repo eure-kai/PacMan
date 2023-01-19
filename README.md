@@ -1,2 +1,2 @@
 # PacMan
-PacMan implementation with Java Graphics using BlueJ (June 2021)
+PacMan implementation with Java Graphics using BlueJ
